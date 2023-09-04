@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThentuIndu" alt="indu" /></a></p>
 
-- 🔭 I’m currently working on `Drum Stick`
+- 🔭 I’m currently working on `Drum kit`
 
 - 🌱 I’m currently learning `MERN STACK`
 
